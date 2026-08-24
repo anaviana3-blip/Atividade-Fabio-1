@@ -4,4 +4,4 @@ Atividade 1
 
 - HTML
 - CSS
-- JavaScript
+- JavaScriptProjeto desenvolvido para a atividade de Git e GitHub.
