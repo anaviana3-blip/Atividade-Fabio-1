@@ -1,2 +1,0 @@
-Arquivo criado para testar a atividade de Git.
-Arquivo utilizado para testar criação e exclusão no Git.
