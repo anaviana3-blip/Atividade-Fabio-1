@@ -1,2 +1,2 @@
 Arquivo criado para testar a atividade de Git.
-Este arquivo será removido posteriormente.
+Arquivo utilizado para testar criação e exclusão no Git.
