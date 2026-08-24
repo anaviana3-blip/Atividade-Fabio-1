@@ -1,0 +1,2 @@
+Arquivo criado para testar a atividade de Git.
+Este arquivo será removido posteriormente.
